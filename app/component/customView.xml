@@ -1,0 +1,5 @@
+
+    <StackLayout>
+        <Label text="Label customView" textWrap="true" />
+        
+    </StackLayout>
